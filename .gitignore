@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spotify Credentials & Cache
+.cache
+
+# Google/YouTube Auth
+client_secrets.json
+yt_token.pickle
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node dependencies (if applicable)
+node_modules/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
